@@ -1,0 +1,6 @@
+[submodule "NoTiE/vendor/spdlog"]
+	path = NoTiE/vendor/spdlog
+	url = https://github.com/gabime/spdlog
+[submodule "NoTiE/vendor/imgui"]
+	path = NoTiE/vendor/imgui
+	url = https://github.com/TheCherno/imgui
